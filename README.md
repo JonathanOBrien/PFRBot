@@ -1,0 +1,2 @@
+# PFRBot
+Jabberbot for things
