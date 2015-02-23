@@ -128,7 +128,7 @@ class Bot(MUCJabberBot):
 		return "You did it wrong! Try !ping usergroup message.  Check !groups for a list of groups you can ping."
 
 if __name__ == '__main__':
---
+
     nickname = 'Nickname'
     username = 'login_username'
     password = 'userpass'
