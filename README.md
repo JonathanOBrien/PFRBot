@@ -1,2 +1,4 @@
 # PFRBot
-Jabberbot for things
+Jabberbot
+
+Some documentation should go here I suppose...
